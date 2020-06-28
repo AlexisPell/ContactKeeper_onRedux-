@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "Sara Watson",
+      "phone": "+7 (000) 000-00-00",
+      "type": "personal",
+      "id": 2
+    },
+    {
+      "name": "John Doe ",
+      "phone": "8-800-555-35-35",
+      "type": "personal",
+      "id": 3
+    },
+    {
+      "name": "Sam Smith",
+      "phone": "222-222-22-22",
+      "type": "personal",
+      "id": 4
+    }
+  ]
+}
